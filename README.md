@@ -1,4 +1,4 @@
-
+![Banner](https://user-images.githubusercontent.com/yourusername/yourimage.png)
 
 
 <h1 align="center">Hi 👋, I'm John Dave De Leon</h1>
