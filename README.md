@@ -1,4 +1,4 @@
-![Banner](https://user-images.githubusercontent.com/yourusername/yourimage.png)
+![Banner](https://github.com/DaVe777777777/DaVe777777777/issues/1#issue-2500729966)
 
 
 <h1 align="center">Hi 👋, I'm John Dave De Leon</h1>
