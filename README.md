@@ -1,3 +1,6 @@
+
+
+
 <h1 align="center">Hi 👋, I'm John Dave De Leon</h1>
 <h3 align="center">A passionate frontend and backend developer from Philippines </h3>
 
