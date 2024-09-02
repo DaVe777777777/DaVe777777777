@@ -3,9 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://ph-files.imgix.net/3a0a806c-b95b-480c-8b89-52c9e4ec3150.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=695&h=380&fit=max&dpr=3">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dave777777777&label=Profile%20views&color=0e75b6&style=flat" alt="dave777777777" /> </p>
-
-<p align="left"> <a href="https://twitter.com/Davedeleon" target="blank"><img src="https://img.shields.io/twitter/follow/Davedeleon?logo=twitter&style=for-the-badge" alt="Davedeleon" /></a> </p>
+<p align="left"> <a href="https://twitter.com/JD_Deleon07" target="blank"><img src="https://img.shields.io/twitter/follow/JD_Deleon07?logo=twitter&style=for-the-badge" alt="JD_Deleon07" /></a> </p>
 
 - 🌱 I’m currently learning **Laravel**
 
